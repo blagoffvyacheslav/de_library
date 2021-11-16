@@ -9,7 +9,6 @@
 
 BOT_NAME = 'diploma'
 
-
 SPIDER_MODULES = ['diploma.spiders']
 NEWSPIDER_MODULE = 'diploma.spiders'
 
